@@ -1,3 +1,5 @@
+/* This code is written by "Atul M. Bhagat" */
+
 #include <iostream>
 
 using namespace std;
